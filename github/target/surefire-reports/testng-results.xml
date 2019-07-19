@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="printline.github.jenkinsgitTest" duration-ms="15" started-at="2019-07-19T22:56:53Z" finished-at="2019-07-19T22:56:53Z">
+  <suite name="printline.github.jenkinsgitTest" duration-ms="14" started-at="2019-07-19T23:36:16Z" finished-at="2019-07-19T23:36:16Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="15" started-at="2019-07-19T22:56:53Z" finished-at="2019-07-19T22:56:53Z">
+    <test name="Command line test" duration-ms="14" started-at="2019-07-19T23:36:16Z" finished-at="2019-07-19T23:36:16Z">
     </test> <!-- Command line test -->
   </suite> <!-- printline.github.jenkinsgitTest -->
 </testng-results>
