@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [printline.github.jenkinsgitTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="printline.github.jenkinsgitTest">
+        <methods>
+          <include name="GoogleTest"/>
+        </methods>
+      </class> <!-- printline.github.jenkinsgitTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [printline.github.jenkinsgitTest] -->

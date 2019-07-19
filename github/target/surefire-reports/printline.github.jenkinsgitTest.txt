@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: printline.github.jenkinsgitTest
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.617 sec
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.608 sec <<< FAILURE!
+GoogleTest(printline.github.jenkinsgitTest)  Time elapsed: 9.337 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at printline.github.jenkinsgitTest.GoogleTest(jenkinsgitTest.java:22)
+
