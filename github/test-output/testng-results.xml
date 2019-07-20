@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20562" started-at="2019-07-20T23:56:35Z" finished-at="2019-07-20T23:56:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20562" started-at="2019-07-20T23:56:35Z" finished-at="2019-07-20T23:56:56Z">
+      <class name="excelconcept.exceldataprovider">
+        <test-method status="PASS" signature="setup()[pri:0, instance:excelconcept.exceldataprovider@ea4a92b]" name="setup" is-config="true" duration-ms="7158" started-at="2019-07-20T18:56:35Z" finished-at="2019-07-20T18:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="datatest(java.lang.String, java.lang.String)[pri:0, instance:excelconcept.exceldataprovider@ea4a92b]" name="datatest" duration-ms="3460" started-at="2019-07-20T18:56:45Z" data-provider="test" finished-at="2019-07-20T18:56:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+        <test-method status="PASS" signature="datatest(java.lang.String, java.lang.String)[pri:0, instance:excelconcept.exceldataprovider@ea4a92b]" name="datatest" duration-ms="2647" started-at="2019-07-20T18:56:48Z" data-provider="test" finished-at="2019-07-20T18:56:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+        <test-method status="PASS" signature="datatest(java.lang.String, java.lang.String)[pri:0, instance:excelconcept.exceldataprovider@ea4a92b]" name="datatest" duration-ms="2648" started-at="2019-07-20T18:56:51Z" data-provider="test" finished-at="2019-07-20T18:56:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+        <test-method status="PASS" signature="datatest(java.lang.String, java.lang.String)[pri:0, instance:excelconcept.exceldataprovider@ea4a92b]" name="datatest" duration-ms="2605" started-at="2019-07-20T18:56:53Z" data-provider="test" finished-at="2019-07-20T18:56:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[login4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+      </class> <!-- excelconcept.exceldataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
