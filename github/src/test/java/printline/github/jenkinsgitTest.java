@@ -19,7 +19,7 @@ public class jenkinsgitTest {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
-		Assert.assertTrue(driver.getTitle().contains("Google"));
+		Assert.assertTrue(driver.getTitle().contains("xyz"));
 	}
 
 }
